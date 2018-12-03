@@ -1,0 +1,5 @@
+C:\Users\win\Desktop\Teste diego\UnitTestProject3\UnitTestProject3\bin\Debug\UnitTestProject3.dll
+C:\Users\win\Desktop\Teste diego\UnitTestProject3\UnitTestProject3\bin\Debug\UnitTestProject3.pdb
+C:\Users\win\Desktop\Teste diego\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.csprojResolveAssemblyReference.cache
+C:\Users\win\Desktop\Teste diego\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.dll
+C:\Users\win\Desktop\Teste diego\UnitTestProject3\UnitTestProject3\obj\Debug\UnitTestProject3.pdb
